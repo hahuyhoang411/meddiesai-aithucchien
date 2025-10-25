@@ -31,9 +31,11 @@ def main(mode: str):
         )
         print(response.choices[0].message.content)
     elif mode == "image":
+        prompt = "A vibrant and festive Lunar New Year 2026 (Year of the Horse) cover image. Dominant colors are auspicious red and gold. Features traditional Vietnamese Tết elements like blooming peach blossoms (hoa đào), kumquat trees (cây quất), and decorative red envelopes (lì xì). In the foreground, subtly integrated with modern elegance, is the Techcombank logo. The overall mood is prosperous, hopeful, and celebratory, with a touch of modern financial sophistication. Text overlay: 'TẾT AN KHANG, SINH LỜI VÀNG CÙNG TECHCOMBANK' (large, prominent), 'Techcombank Sinh Lời Tự Động' (medium), 'Chào đón Tết Nguyên Đán 2026' (smaller)."
         response = client.images.generate(
             model=IMAGE_MODEL,
-            prompt="A beautiful image of a cat",
+            # prompt="A beautiful image of a cat",
+            prompt=prompt,
             n=1,
         )
         for i, image_obj in enumerate(response.data):
