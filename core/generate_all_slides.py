@@ -38,4 +38,4 @@ def generate_slides_from_prompts(json_file_path: str):
 
 
 if __name__ == "__main__":
-    generate_slides_from_prompts("image_generation_prompts.json")
+    generate_slides_from_prompts("prompt_no_text.json")

@@ -271,6 +271,12 @@ wheels = [
 ]
 
 [[package]]
+name = "convert"
+version = "0.1.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/ce/9f/9e92423717513600e6c797a9e0d4a4582e9bff0b3a9615a2d4099435438e/convert-0.1.2.tar.gz", hash = "sha256:61f2d399d31f2031cc00041832a35d9b487742e83cb5c788fcbe0ba3f6a03d55", size = 561, upload-time = "2014-04-06T16:17:34.576Z" }
+
+[[package]]
 name = "distro"
 version = "1.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -820,6 +826,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "click" },
+    { name = "convert" },
     { name = "google-genai" },
     { name = "litellm" },
     { name = "openai" },
@@ -829,6 +836,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "click", specifier = ">=8.3.0" },
+    { name = "convert", specifier = ">=0.1.2" },
     { name = "google-genai", specifier = ">=1.46.0" },
     { name = "litellm", specifier = ">=1.78.7" },
     { name = "openai", specifier = ">=2.6.0" },

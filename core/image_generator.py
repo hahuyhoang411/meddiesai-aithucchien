@@ -24,7 +24,7 @@ class ImageGenerator:
         )
         
         # Assuming the response contains a URL to the generated image
-        image_url = response.choices[0].message.content  # This might need adjustment based on actual LiteLLM response structure
+        image_url = response.choices[0].message.content # This might need adjustment based on actual LiteLLM response structure
         
         # In a real scenario, you would download the image from the URL
         # For now, we'll just print the URL
@@ -51,7 +51,7 @@ class ImageGenerator:
         )
         
         # Assuming the response contains a URL to the generated image
-        image_url = response.choices[0].message.content  # This might need adjustment based on actual LiteLLM response structure
+        image_url = response.choices[0].message.content # This might need adjustment based on actual LiteLLM response structure
         
         # In a real scenario, you would download the image from the URL
         # For now, we'll just print the URL
@@ -64,12 +64,10 @@ class ImageGenerator:
 if __name__ == "__main__":
     generator = ImageGenerator()
 
-
     # Example for Imagen-4
     imagen_prompt = "A futuristic city at sunset, vibrant colors, high detail"
     imagen_output_path = "outputs/imagen_output.txt"
     # generator.generate_imagen_image(imagen_prompt, imagen_output_path)
-
 
     # Example for Gemini-2.5-flash-image-preview with reference
     gemini_prompt = "Generate an image in the style of the reference image, depicting a serene forest with a hidden waterfall."

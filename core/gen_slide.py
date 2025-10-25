@@ -11,7 +11,7 @@ IMAGE_MODEL = "imagen-4"
 
 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
 
-TRIAL_FOLDER = "trial_4"
+TRIAL_FOLDER = "trial_5"
 import os
 
 os.makedirs(f"outputs/{TRIAL_FOLDER}", exist_ok=True)
@@ -22,7 +22,7 @@ def gen_slide(prompt: str, slide_number: int):
         model=IMAGE_MODEL,
         prompt=prompt
         + "\n\n **IMPORTANT:** Make sure Vietnamese text is spelled correctly. IMAGE MUST HAVE ASPECT RATIO AS 4:3 LANDSCAPE.",
-        n=4,
+        n=1,
         size="1536x1024",
     )
     for i, image_obj in enumerate(response.data):
