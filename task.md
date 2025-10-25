@@ -1,0 +1,239 @@
+Tuyệt vời! Dưới đây là bản ý tưởng chiến dịch marketing sáng tạo cho mùa Tết 2026 của Techcombank, tập trung vào sản phẩm “Techcombank Sinh lời tự động”, được thiết kế hoàn toàn mới với sự hỗ trợ của AI, đảm bảo tính độc đáo, phù hợp văn hóa Việt Nam và tuân thủ các quy định.
+
+---
+
+## **Chiến dịch Marketing Tết 2026: "Tết An Nhiên, Tiền Tự Động Sinh"**
+
+**Sản phẩm chủ lực:** Techcombank Sinh lời tự động
+**Thời gian:** Mùa Tết Nguyên Đán 2026 (khoảng tháng 1-2/2026)
+**Mục tiêu:** Tăng nhận diện thương hiệu, thúc đẩy đăng ký và sử dụng sản phẩm “Techcombank Sinh lời tự động”, gắn kết Techcombank với giá trị Tài Lộc & An Nhiên trong mùa Tết.
+
+---
+
+### **Trang 1: Trang bìa & Slogan Chính**
+
+**(Hình ảnh minh họa)**: Một khung cảnh gia đình hiện đại đang sum vầy đón Tết, mọi người tươi cười rạng rỡ, thoải mái. Phía xa qua cửa sổ là những cành đào, mai đang khoe sắc. Một dòng chảy tài lộc (có thể là những đồng tiền cách điệu hoặc biểu đồ tăng trưởng màu vàng kim) lấp lánh nhẹ nhàng phía sau, hòa quyện với không khí Tết ấm cúng, tinh tế và không phô trương.
+
+**Tiêu đề lớn:**
+
+## **TECHCOMBANK SINH LỜI TỰ ĐỘNG**
+
+**Slogan chính của chiến dịch:**
+
+# **TẾT AN NHIÊN, TIỀN TỰ ĐỘNG SINH:**
+
+### **Trọn Vẹn Hơn Mỗi Khoảnh Khắc Cùng Gia Đình!**
+
+---
+
+### **Trang 2: Mục Tiêu & Bối Cảnh Chiến Dịch**
+
+**(Hình ảnh minh họa)**: Biểu đồ tăng trưởng nhẹ nhàng với các icon Tết (bánh chưng, lì xì, hoa mai) được lồng ghép tinh tế.
+
+**Bối cảnh:**
+Tết là thời điểm vàng của khởi đầu mới, của sự sum vầy và mong ước tài lộc. Tuy nhiên, nhiều người vẫn còn lo lắng về tài chính, hoặc bỏ lỡ cơ hội sinh lời khi bận rộn chuẩn bị và tận hưởng Tết. “Techcombank Sinh lời tự động” ra đời để giải quyết nỗi lo đó, giúp khách hàng an tâm tận hưởng Tết trọn vẹn, trong khi tiền bạc vẫn không ngừng sinh sôi.
+
+**Mục tiêu chiến dịch:**
+
+1. **Tăng nhận diện thương hiệu:** Nâng cao mức độ nhận biết sản phẩm “Techcombank Sinh lời tự động” gắn liền với mùa Tết.
+2. **Thúc đẩy chuyển đổi:** Tăng số lượng khách hàng mới đăng ký và kích hoạt sản phẩm “Techcombank Sinh lời tự động” trong giai đoạn Tết 2026.
+3. **Tạo gắn kết cảm xúc:** Định vị Techcombank là người bạn đồng hành tin cậy, mang lại sự an tâm tài chính và giá trị “an nhiên” cho khách hàng trong mùa lễ hội quan trọng nhất năm.
+4. **Truyền tải CVP:** Giúp khách hàng hiểu rõ giá trị cốt lõi của sản phẩm: "Tiền tự động sinh lời ngay cả khi bạn không cần bận tâm, giúp bạn có nhiều thời gian và tâm trí hơn cho gia đình và những khoảnh khắc ý nghĩa."
+
+---
+
+### **Trang 3: Thông Điệp Chính & CVP Sản Phẩm**
+
+**(Hình ảnh minh họa)**: Một chiếc đồng hồ cát đang chảy chậm rãi, nhưng bên dưới không phải là cát mà là những đồng tiền vàng lấp lánh đang tăng lên. Phía trên là hình ảnh một gia đình đang quây quần, ấm áp.
+
+**Thông điệp chủ đạo:**
+"Trong khi bạn thảnh thơi tận hưởng Tết, tiền bạc của bạn vẫn cần mẫn làm việc. Techcombank Sinh lời tự động biến những lo toan tài chính thành sự an tâm, để bạn có thể trọn vẹn hơn trong từng khoảnh khắc sum vầy bên gia đình, bạn bè."
+
+**Giá trị cốt lõi (CVP) của “Techcombank Sinh lời tự động” được truyền tải:**
+
+* **AN NHIÊN:** Không cần bận tâm, tiền vẫn tự động sinh lời. Giải phóng bạn khỏi gánh nặng quản lý tài chính.
+* **TÀI LỘC DỒI DÀO:** Tối ưu hóa nguồn tiền nhàn rỗi, gia tăng tài sản một cách thông minh, không bỏ lỡ bất kỳ cơ hội sinh lời nào.
+* **KHỞI ĐẦU PHÁT TRIỂN:** Là bước đệm vững chắc cho một năm mới tài chính sung túc, thịnh vượng, khởi đầu những mục tiêu lớn hơn.
+* **TIỆN LỢI TỐI ĐA:** Dễ dàng thiết lập và quản lý qua ứng dụng Techcombank Mobile, mọi lúc mọi nơi.
+
+---
+
+### **Trang 4: Đối Tượng Mục Tiêu & Chân Dung Khách Hàng**
+
+**(Hình ảnh minh họa)**: Một collage gồm các hình ảnh nhỏ: một cặp vợ chồng trẻ đang dọn nhà đón Tết, một người phụ nữ trẻ đang mua sắm online, một người đàn ông trung niên đang xem bảng thống kê tài chính trên máy tính bảng.
+
+**Đối tượng mục tiêu chính:**
+
+1. **Người trẻ thành đạt (25-40 tuổi):** Bận rộn, quan tâm đến việc quản lý tài chính thông minh nhưng không có nhiều thời gian theo dõi sát sao. Họ muốn tiền làm việc cho mình.
+2. **Gia đình trẻ:** Đang xây dựng tổ ấm, có khoản tiền tiết kiệm nhưng cần tối ưu hóa để lo cho tương lai con cái, mua nhà, xe… Họ tìm kiếm sự an toàn và hiệu quả.
+3. **Chủ doanh nghiệp nhỏ/freelancer:** Dòng tiền không cố định, muốn có một kênh đầu tư linh hoạt, dễ quản lý để tiền không "ngủ yên".
+
+**Chân dung khách hàng điển hình:**
+
+* **Tên:** Nguyễn Hoàng An (32 tuổi) – Trưởng phòng Marketing.
+* **Thu nhập:** 25 triệu/tháng.
+* **Nỗi lo Tết:** Phải chi tiêu nhiều khoản (quà cáp, dọn nhà, lì xì, du lịch), sợ tiền bị hao hụt nhanh chóng. Không có thời gian nghiên cứu đầu tư.
+* **Mong muốn:** Tiền tiết kiệm không chỉ giữ nguyên mà còn phải sinh lời, để có thể thoải mái chi tiêu mà vẫn đảm bảo tích lũy cho tương lai. Muốn một cái Tết thật an nhàn bên gia đình, không lo nghĩ về tài chính.
+
+---
+
+### **Trang 5: Ý Tưởng Lớn (Big Idea) & Slogan Phụ**
+
+**(Hình ảnh minh họa)**: Một phong bao lì xì màu đỏ rực rỡ, nhưng bên trong không phải là tiền giấy mà là những đồng tiền vàng lấp lánh đang "nảy mầm" và phát triển.
+
+**Ý Tưởng Lớn: "Biến Lì Xì Của Bạn Thành Lì Xì Sinh Lời!"**
+
+Mùa Tết, lì xì là truyền thống đẹp, biểu tượng của may mắn và tài lộc. Chúng ta sẽ "cách mạng hóa" lì xì, không chỉ là trao đi may mắn nhất thời, mà còn là khởi đầu cho một dòng chảy tài lộc tự động, bền vững.
+
+**Cách thức thực hiện ý tưởng:**
+
+* **Kêu gọi:** Thay vì chỉ giữ tiền lì xì, hãy gửi chúng vào "Techcombank Sinh lời tự động" để tiền không chỉ "đứng yên" mà còn "lớn lên" từng ngày.
+* **Gắn kết:** Liên hệ hành động lì xì với hành động tài chính thông minh, mang lại giá trị lâu dài.
+* **Slogan phụ:**
+  * **"Lì Xì Phát Lộc, Tiền Tự Động Sinh."**
+  * **"Tết này, lì xì của bạn không chỉ là may mắn, mà còn là tài lộc tự động."**
+
+---
+
+### **Trang 6: Kế Hoạch Triển Khai - Hành Trình Khách Hàng (Customer Journey)**
+
+**(Hình ảnh minh họa)**: Biểu đồ phễu khách hàng được cách điệu thành một cây mai/đào đang nở hoa, mỗi cánh hoa là một giai đoạn trong hành trình.
+
+**Giai đoạn 1: NHẬN BIẾT (Awareness) - "Tết Gần Kề, Tiền Có Đang Sinh?"**
+
+* **Kênh:** TVC (30s), Quảng cáo Online (Facebook, YouTube, Google Display Network), OOH (Digital Billboard tại các trung tâm thương mại lớn, sân bay).
+* **Nội dung:** Giới thiệu vấn đề (lo toan tài chính mùa Tết) và giải pháp (Sinh lời tự động). Tập trung vào cảm xúc "an nhiên, thảnh thơi".
+* **Hoạt động:** Chuỗi video ngắn dạng "shorts" trên TikTok, Facebook Reel, kể chuyện về các tình huống Tết bận rộn và giải pháp tài chính.
+
+**Giai đoạn 2: CÂN NHẮC (Consideration) - "Khám Phá Giải Pháp An Nhiên"**
+
+* **Kênh:** Landing Page chuyên biệt, bài viết Blog/Fanpage, KOL/KOCs (micro-influencers), Livestream trên Facebook/YouTube, Email Marketing.
+* **Nội dung:** Giải thích cơ chế "Sinh lời tự động", lợi ích cụ thể, cách thức hoạt động đơn giản. So sánh với cách gửi tiết kiệm thông thường.
+* **Hoạt động:** Mini-game online "Tết Này, Tiền Của Bạn Lớn Đến Đâu?", tặng voucher/điểm thưởng khi tham gia. Webinar "Quản lý tài chính thông minh mùa Tết".
+
+**Giai đoạn 3: CHUYỂN ĐỔI (Conversion) - "Bắt Đầu Năm Mới Thịnh Vượng"**
+
+* **Kênh:** Ứng dụng Techcombank Mobile, Website Techcombank, Chi nhánh/Phòng giao dịch, Push Notification.
+* **Nội dung:** Hướng dẫn đăng ký chi tiết, các gói ưu đãi đặc biệt dành riêng cho mùa Tết.
+* **Hoạt động:**
+  * **Ưu đãi "Lì Xì May Mắn":** Tặng % lợi suất cộng thêm hoặc cashback cho khách hàng mở mới/gửi thêm vào “Sinh lời tự động” trong thời gian Tết.
+  * **"Thử Thách Lì Xì Sinh Lời":** Khách hàng đặt mục tiêu số tiền lì xì nhận được và cam kết gửi vào "Sinh lời tự động" để nhận thưởng.
+
+**Giai đoạn 4: DUY TRÌ & ỦNG HỘ (Retention & Advocacy) - "An Nhiên Lan Tỏa"**
+
+* **Kênh:** In-app messages, Email/SMS, Cộng đồng khách hàng Techcombank.
+* **Nội dung:** Chia sẻ câu chuyện thành công, lợi ích dài hạn.
+* **Hoạt động:** Chương trình "Giới thiệu bạn bè - Cùng nhau sinh lời", tặng điểm thưởng cho cả người giới thiệu và người được giới thiệu.
+
+---
+
+### **Trang 7: Mẫu Quảng Cáo Minh Họa & Kênh Truyền Thông**
+
+**(Hình ảnh minh họa)**: Tổng hợp các layout quảng cáo nhỏ (Digital Ad, OOH, TVC Keyframe)
+
+**1. TVC (Keyframe - 30 giây):**
+
+* **Cảnh 1:** Một người phụ nữ trẻ đang tất bật gói bánh chưng, mồ hôi lấm tấm. Ánh mắt thoáng chút lo âu về chi tiêu. (5s)
+* **Cảnh 2:** Chuyển cảnh sang màn hình điện thoại: ứng dụng Techcombank với biểu đồ "Sinh lời tự động" đang nhẹ nhàng tăng lên. (5s)
+* **Cảnh 3:** Người phụ nữ giờ đây đang cười tươi, thảnh thơi ngắm hoa đào cùng con. (10s)
+* **Lời thoại:** "Tết này, ai bận rộn lo toan? Ai thảnh thơi hưởng lộc? Với Techcombank Sinh lời tự động, tiền vẫn sinh lời, để bạn an nhiên trọn vẹn từng khoảnh khắc. *Tết An Nhiên, Tiền Tự Động Sinh!*" (10s)
+* **Call to action:** "Mở ngay tại ứng dụng Techcombank Mobile!"
+
+**2. Digital Ad (Facebook/Instagram Carousel):**
+
+* **Slide 1 (Image):** Cảnh gia đình cười nói vui vẻ bên mâm cỗ. **Text:** "Tết này, bạn chọn an nhiên hay lo toan?"
+* **Slide 2 (Image):** Biểu đồ tăng trưởng tài chính đơn giản, lồng ghép hoa đào. **Text:** "Techcombank Sinh lời tự động – Giải pháp an nhiên cho túi tiền."
+* **Slide 3 (Image):** Lì xì cách điệu "nảy mầm" tiền. **Text:** "Biến lì xì của bạn thành lì xì sinh lời. Tìm hiểu ngay!"
+* **CTA:** "Tìm hiểu thêm" / "Đăng ký ngay"
+
+**3. OOH (Digital Billboard tại Trung tâm thương mại):**
+
+* **Visual:** Hoa mai vàng rực rỡ, xen kẽ là các biểu tượng tài chính tăng trưởng.
+* **Text (lớn):** "TẾT AN NHIÊN, TIỀN TỰ ĐỘNG SINH!"
+* **Text (nhỏ):** "Techcombank Sinh lời tự động. Tận hưởng Tết trọn vẹn, tiền vẫn sinh lời."
+* **QR Code:** Dẫn đến Landing Page đăng ký.
+
+---
+
+### **Trang 8: Hoạt Động Kích Hoạt & Trải Nghiệm (Activation)**
+
+**(Hình ảnh minh họa)**: Một sự kiện tương tác vui vẻ tại trung tâm thương mại, mọi người đang chụp ảnh với background Tết và màn hình hiển thị trò chơi.
+
+**1. "Thử Thách Lì Xì Sinh Lời" Online:**
+
+* **Nền tảng:** Website/Ứng dụng Techcombank, có thể tích hợp trên Facebook Messenger Bot.
+* **Cơ chế:** Khách hàng nhập số tiền lì xì dự kiến nhận được hoặc muốn gửi. Hệ thống sẽ mô phỏng khoản tiền này "sinh lời tự động" như thế nào trong suốt 1 năm tới (với mức lợi suất tham khảo của sản phẩm).
+* **Phần thưởng:** Sau khi hoàn thành, khách hàng nhận được "Lì xì Điện Tử" là mã giảm giá, voucher mua sắm Tết hoặc điểm thưởng TCB Rewards, đồng thời được khuyến khích mở tài khoản “Sinh lời tự động”.
+
+**2. "Góc An Nhiên" tại các trung tâm thương mại lớn:**
+
+* **Mô tả:** Một không gian pop-up được trang trí đậm chất Tết truyền thống nhưng có yếu tố công nghệ hiện đại.
+* **Hoạt động:**
+  * **Trò chơi tương tác:** Màn hình cảm ứng lớn, người chơi chọn các vật phẩm Tết (bánh chưng, hoa mai, pháo hoa) và "bỏ" vào đó một số tiền ảo. Màn hình sẽ hiển thị số tiền này "sinh lời" như thế nào theo thời gian thực nhờ “Sinh lời tự động”.
+  * **"Tư Vấn An Nhiên":** Các tư vấn viên Techcombank mặc áo dài/khăn đóng hiện đại, tư vấn trực tiếp về sản phẩm và hỗ trợ đăng ký ngay tại chỗ.
+  * **Chụp ảnh Tết:** Khách hàng có thể chụp ảnh với background Tết được thiết kế đẹp mắt, đăng lên mạng xã hội kèm hashtag #TếtAnNhiênTCB để nhận quà.
+
+**3. "Chuyến Xe Tài Lộc" – Lưu động:**
+
+* **Mô tả:** Một chiếc xe buýt/xe tải nhỏ được trang trí rực rỡ theo chủ đề Tết và Techcombank, di chuyển qua các khu dân cư đông đúc, chợ Tết truyền thống.
+* **Hoạt động:** Phát lì xì may mắn (bên trong có QR code dẫn đến Landing Page), tổ chức các trò chơi dân gian đơn giản và giới thiệu sản phẩm.
+
+---
+
+### **Trang 9: Sơ Đồ Điểm Chạm Khách Hàng (Customer Touchpoints Map)**
+
+**(Hình ảnh minh họa)**: Một sơ đồ luồng khách hàng từ trái sang phải, mỗi điểm chạm là một icon khác nhau (TV, điện thoại, máy tính, quầy giao dịch).
+
+**Trước Tết (Giai đoạn Nhận biết & Cân nhắc):**
+
+* **TV/Online Video Ads:** Khách hàng thấy TVC quảng cáo cảm động, hình ảnh Tết an yên.
+* **Mạng xã hội:** Thấy KOL/KOC chia sẻ về cách quản lý tiền lì xì thông minh, hoặc bài viết trên Fanpage TCB về lợi ích của “Sinh lời tự động”.
+* **OOH:** Thấy billboard quảng cáo tại TTTM khi đi mua sắm Tết.
+* **Email/SMS:** Nhận email/tin nhắn từ Techcombank giới thiệu sản phẩm.
+* **Tìm kiếm Google:** Tìm kiếm "quản lý tiền Tết", "đầu tư an toàn".
+
+**Trong Tết (Giai đoạn Cân nhắc & Chuyển đổi):**
+
+* **Ứng dụng TCB Mobile:** Thấy banner/pop-up ưu đãi “Lì Xì May Mắn” ngay trên app.
+* **"Góc An Nhiên" tại TTTM:** Trực tiếp trải nghiệm trò chơi, nhận tư vấn.
+* **Tham gia "Thử Thách Lì Xì Sinh Lời" online:** Tương tác, nhận quà và khuyến khích hành động.
+* **Được bạn bè giới thiệu:** Thấy bạn bè khoe kết quả từ "Sinh lời tự động".
+
+**Sau Tết (Giai đoạn Chuyển đổi & Duy trì):**
+
+* **Ứng dụng TCB Mobile:** Nhận thông báo về lợi nhuận đã sinh ra, thấy tiền tự động tăng trưởng.
+* **Email/SMS:** Nhận thông tin về các tính năng mới, các bài viết mẹo tài chính.
+* **Chương trình "Giới thiệu bạn bè":** Được khuyến khích chia sẻ trải nghiệm tích cực.
+
+---
+
+### **Trang 10: Tổng Kết & Kêu Gọi Hành Động**
+
+**(Hình ảnh minh họa)**: Logo Techcombank nổi bật trên nền hoa đào/mai, phía dưới là một vài từ khóa chủ chốt của chiến dịch: "An Nhiên", "Tài Lộc", "Sinh Lời Tự Động".
+
+**Tổng kết chiến dịch:**
+
+Chiến dịch "Tết An Nhiên, Tiền Tự Động Sinh" của Techcombank không chỉ là một chiến dịch quảng bá sản phẩm mà còn là một lời chúc, một món quà ý nghĩa Techcombank gửi đến khách hàng nhân dịp năm mới. Chúng tôi tin rằng, với sự hỗ trợ của “Techcombank Sinh lời tự động”, mỗi gia đình Việt sẽ có một mùa Tết 2026 thật sự trọn vẹn, an yên, không lo toan tài chính, để dành trọn vẹn thời gian cho những khoảnh khắc yêu thương và hạnh phúc bên nhau.
+
+**Điểm nhấn độc đáo của chiến dịch:**
+
+* Gắn kết sâu sắc giá trị tài chính với tinh thần và cảm xúc Tết truyền thống.
+* Tập trung vào yếu tố "An Nhiên" – một nhu cầu thiết yếu trong cuộc sống hiện đại và đặc biệt trong mùa lễ.
+* Ý tưởng "Lì Xì Sinh Lời" sáng tạo, biến truyền thống thành cơ hội tài chính.
+* Sử dụng đa dạng kênh truyền thông và hoạt động kích hoạt tương tác, mang lại trải nghiệm toàn diện cho khách hàng.
+
+**Kêu gọi hành động:**
+
+Hãy cùng Techcombank kiến tạo một mùa Tết 2026 đầy thịnh vượng và an nhiên!
+**Mở ngay "Techcombank Sinh lời tự động" hôm nay để đón một năm mới tài lộc dồi dào, an yên trọn vẹn!**
+
+**#Techcombank #SinhLờiTựĐộng #TếtAnNhiênTCB #TiềnTựĐộngSinh**
+
+---
+
+**Lưu ý:**
+
+* File PPTX/PDF/DOCX sẽ được thiết kế với layout chuyên nghiệp, màu sắc chuẩn nhận diện thương hiệu Techcombank (đỏ, trắng, xám) kết hợp với các màu sắc Tết (vàng, hồng).
+* Các hình ảnh minh họa sẽ được tạo ra bằng AI API theo mô tả để đảm bảo tính độc đáo và phù hợp yêu cầu "hoàn toàn sáng tạo mới với AI".
+* Nội dung tuân thủ các quy định pháp lý và giáo dục, không đưa ra lời hứa hẹn quá mức về lợi nhuận, mà tập trung vào giá trị gia tăng và sự tiện lợi của sản phẩm.
+* Ngôn ngữ sử dụng là Tiếng Việt chuẩn mực, gần gũi và truyền cảm.
