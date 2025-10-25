@@ -15,19 +15,19 @@ def generate_slides_from_prompts(json_file_path: str):
         print(f"Generating image for Slide {slide_number}: {topic}")
         
         retries = 0
-        max_retries = 3
+        max_retries = 5
         success = False
 
         while retries < max_retries and not success:
             try:
-                gen_slide(prompt)
+                gen_slide(prompt, slide_number)
                 success = True
                 print(f"Successfully generated image for Slide {slide_number}.")
             except Exception as e:
                 retries += 1
                 print(f"Error generating image for Slide {slide_number} (Attempt {retries}/{max_retries}): {e}")
                 if retries < max_retries:
-                    time.sleep(5)  # Wait for 5 seconds before retrying
+                    time.sleep(10)  # Wait for 5 seconds before retrying
                 else:
                     print(f"Failed to generate image for Slide {slide_number} after {max_retries} attempts.")
         print("-" * 50)
