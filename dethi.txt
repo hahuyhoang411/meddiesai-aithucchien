@@ -1,0 +1,8 @@
+Yêu cầu của đề thi:
+Thiết kế chiến dịch marketing sáng tạo cho mùa Tết 2026, nhằm quảng bá sản phẩm chủ lực “Techcombank Sinh lời tự động”.
+Chiến dịch cần thể hiện tinh thần Tết – thời điểm của khởi đầu, tài lộc và sum vầy – đồng thời truyền tải giá trị cốt lõi (CVP) của “Techcombank Sinh lời tự động” một cách gần gũi, dễ hiểu và phù hợp với khách hàng Việt Nam.
+Bản ý tưởng chiến dịch ngắn gọn (tối đa 10 slide hoặc 10 trang A4) bao gồm hình ảnh, khẩu hiệu, hành trình khách hàng, hoặc mẫu quảng cáo minh họa,...
+Sản phẩm là hoàn toàn sáng tạo mới với AI thông qua AI API được cung cấp, đáp ứng đủ yêu cầu của đề, phù hợp quy định pháp lý và giáo dục, không cover hay sáng tác từ một sản phẩm có sẵn
+Đầu ra: File PPTX/PDF/DOCX
+Ngôn ngữ: tiếng Việt
+Tham khảo thông tin sản phẩm và nhận diện thương hiệu tại https://techcombank.com/ 
