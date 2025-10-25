@@ -31,22 +31,12 @@
   },
   {
     "slide": 7,
-    "topic": "Hành Trình Khách Hàng (Awareness đến Conversion)",
-    "prompt": "A visual representation of a customer journey as a flowing river or path. At the 'source' (Awareness), there are diverse media icons (TV, social media logos, billboards) subtly hinting at Tết campaigns. The 'river' flows through a 'Consideration' phase with icons of a laptop (landing page), a person consulting a banker, and a thought bubble. It culminates in a 'Conversion' phase with a smartphone showing a successful transaction or account opening, surrounded by celebratory Tết elements like confetti. The overall flow is smooth and inviting. Text overlay: 'Hành Trình Khách Hàng' (large), '1. Nhận biết: TVC Tết, Social Media, OOH', '2. Cân nhắc: Landing Page, Webinar, Tư vấn', '3. Chuyển đổi: App Techcombank, Website, Chi nhánh' (smaller, bullet points)."
-  },
-  {
-    "slide": 8,
     "topic": "Mẫu Quảng Cáo Minh Họa",
     "prompt": "A professional and engaging advertisement mock-up. The central image is a happy, modern Vietnamese family (parents and one child) smiling and looking at a smartphone held by the father, which clearly displays the Techcombank app with a positive balance or growth indicator. In the background, there are subtle, elegant Tết decorations like a stylized peach blossom branch and a few red envelopes. The overall aesthetic is clean, bright, and aspirational, using Techcombank's brand colors. The image should be suitable for a digital ad. Text overlay: 'Tết Này, Tiền Tự Sinh Lời – An Nhàn Hưởng Lộc, Vẹn Tròn Sum Vầy!' (prominent title), 'Đừng để nỗi lo tài chính làm phiền khoảnh khắc sum vầy. Với Techcombank Sinh Lời Tự Động, tiền của bạn sẽ tự động gia tăng, mang đến một năm mới 2026 đầy tài lộc và an khang.' (body text), 'Mở ngay Techcombank Sinh Lời Tự Động để đón Tết 2026 sung túc!' (call to action)."
   },
   {
-    "slide": 9,
+    "slide": 8,
     "topic": "Kêu Gọi Hành Động & Chương Trình Khuyến Mãi Tết",
     "prompt": "A visually enticing image showcasing Tết promotions. A golden 'lucky draw' box or spinning wheel, surrounded by glittering gold coins, stylized SJC gold bars, and festive red envelopes. In the background, a subtle animation or graphic of money growing. The Techcombank logo is prominently featured. The image should evoke excitement, opportunity, and the promise of valuable rewards for the Lunar New Year. Text overlay: 'Kêu Gọi Hành Động & Khuyến Mãi Tết' (large), 'Đừng bỏ lỡ cơ hội vàng để khởi đầu năm mới Giáp Ngọ 2026 với tài lộc dồi dào!' (strong call to action), 'Lì Xì Vàng May Mắn', 'Thêm Lộc Đầu Năm', 'Chia Sẻ An Khang' (smaller, bullet points for promotions)."
-  },
-  {
-    "slide": 10,
-    "topic": "Tuân Thủ Pháp Lý & Giáo Dục",
-    "prompt": "A professional and trustworthy image representing financial compliance and education. A stylized open book or scroll with subtle legal symbols (e.g., a gavel, scales of justice) on one page, and educational icons (e.g., a lightbulb, a graduation cap) on the other. The background is clean and corporate, possibly with a subtle Techcombank branding. The overall impression is one of transparency, responsibility, and empowerment through knowledge. Text overlay: 'Tuân Thủ Pháp Lý & Giáo Dục' (large), 'Đảm bảo tuân thủ đầy đủ các quy định của Ngân hàng Nhà nước Việt Nam và pháp luật hiện hành.' (medium), 'Lồng ghép các thông điệp giáo dục tài chính cơ bản, khuyến khích thói quen tiết kiệm và đầu tư thông minh.' (medium)."
   }
 ]
